@@ -1,0 +1,22 @@
+﻿Compilación iniciada a las 06/06/2015 12:25:22.
+     1>Proyecto "C:\Users\ROGER-PC\Documents\UAB\renoc\Granota.vcxproj" en el nodo 2 (build destinos).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(299,5): warning MSB8004: El directorio Output no termina con una barra diagonal final. Esta instancia de compilación agregará la barra diagonal porque es necesaria para que se pueda evaluar correctamente el directorio Output.
+     1>InitializeBuildStatus:
+         Se creará "Debug\Granota.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         Todas las salidas están actualizadas.
+         Todas las salidas están actualizadas.
+       ManifestResourceCompile:
+         Todas las salidas están actualizadas.
+       Link:
+         Todas las salidas están actualizadas.
+       Manifest:
+         Todas las salidas están actualizadas.
+       FinalizeBuildStatus:
+         Se eliminará el archivo "Debug\Granota.unsuccessfulbuild".
+         Aplicando tarea Touch a "Debug\Granota.lastbuildstate".
+     1>Compilación del proyecto terminada "C:\Users\ROGER-PC\Documents\UAB\renoc\Granota.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:00.10

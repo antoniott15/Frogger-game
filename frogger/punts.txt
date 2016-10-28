@@ -1,0 +1,5 @@
+solo 510
+makinetis 450
+jugador 210
+prova 150
+han 30
